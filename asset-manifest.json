@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Student-markmanagement/static/css/main.f7c25649.css",
+    "main.js": "/Student-markmanagement/static/js/main.fc3e43f9.js",
+    "static/js/453.b117aab0.chunk.js": "/Student-markmanagement/static/js/453.b117aab0.chunk.js",
+    "index.html": "/Student-markmanagement/index.html",
+    "main.f7c25649.css.map": "/Student-markmanagement/static/css/main.f7c25649.css.map",
+    "main.fc3e43f9.js.map": "/Student-markmanagement/static/js/main.fc3e43f9.js.map",
+    "453.b117aab0.chunk.js.map": "/Student-markmanagement/static/js/453.b117aab0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7c25649.css",
+    "static/js/main.fc3e43f9.js"
+  ]
+}
